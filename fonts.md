@@ -63,3 +63,17 @@ Attributions are based on
 | Vertigo         | Software Complement      |
 | Vremya          | Unclear                  |
 | Zephyr Script   | Richard Ware             |
+
+## Statements
+
+> Many of the Casady & Greene, Inc. fonts were owned by Casady & Greene, Inc. No one claimed them at the dissolution of the company, so I guess they are in the public domain. I don't really know for certain.
+>
+> The rights to some of them were owned by their creators. I created: Kells, Meath, Dorovar Carolus, Gregorian, Gazelle, Jott, and KeyCaps. I have put them into the public domain.
+>
+> Mike Wright (programmer and owner of iData) owns: Abilene, Desperado, Dry Gulch, Pendragon, Black Knight, Paladin, Slender Gold, and Vremya (Slovic languages). Mike has put his fonts in the public domain.
+>
+> Karen L. Cohen created: Kasse, Highland Gothic, Cut Outs, Michelle, Fletcher Gothic, Rocko, and Fattipatti. I don't know the status of her fonts.
+>
+> Regards, Robin Casady RobinCasady.com
+
+Source: [Comment on r/Design](https://www.reddit.com/r/Design/comments/eyavg/comment/c1c0lb8/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)

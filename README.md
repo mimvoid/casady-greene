@@ -16,4 +16,7 @@ As the company closed on July 3, 2003, I believe the use of these fonts is fine,
 may avoid them for commercial products. If anyone is more knowledgable about this topic,
 please feel free to reach out!
 
-Read more about Casady & Greene on [Luc Devroye's page](https://luc.devroye.org/fonts-27509.html).
+See also:
+
+- [A list of fonts and attributions](fonts.md)
+- [Luc Devroye's page](https://luc.devroye.org/fonts-27509.html)
