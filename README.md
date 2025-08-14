@@ -2,7 +2,7 @@
 
 A collection of typefaces by font foundry and software company Casady & Greene.
 
-With [Typoasis's page on Casady & Greene](https://moorstation.org/typoasis/designers/casady_greene/index.htm)
+With [TypOasis's page on Casady & Greene](https://moorstation.org/typoasis/designers/casady_greene/index.htm)
 becoming unavailable, I created this repository as another archive for these fonts.
 
 All WOFF2 fonts are unofficially derived from the TTF font files.

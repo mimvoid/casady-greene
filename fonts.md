@@ -1,7 +1,7 @@
 # Fonts
 
 Attributions are based on
-[Typoasis's page on Casady & Greene](https://moorstation.org/typoasis/designers/casady_greene/index.htm).
+[TypOasis's page on Casady & Greene](https://moorstation.org/typoasis/designers/casady_greene/index.htm).
 
 | Font            | Creator                  |
 | --------------- | ------------------------ |
